@@ -9,7 +9,7 @@ let rover = {                  // iteracao 1
 }
 
 // ======================
-
+//
  // iteracao 2
 
 function turnLeft(rover) {
